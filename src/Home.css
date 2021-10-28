@@ -1,0 +1,40 @@
+.bg-emp {
+  position: relative;
+  background-image: url(./Untitled-2.png);
+  background-size: 1305px 665px;
+  height: 665px;
+  background-repeat: no-repeat;
+  background-color: #f2f2f2;
+}
+
+.intro-section {
+  padding-top: 200px;
+  position: relative;
+}
+.intro-section .intro_text {
+  /* padding-left: 60px; */
+  /* padding-right: 40px; */
+  text-align: center;
+  margin-top: 20px;
+}
+.intro-section .intro_text h2 {
+  color: #000;
+  font-weight: 600;
+  font-size: 38px;
+}
+.intro-section .intro_text .buttons {
+  padding-top: 30px;
+}
+.intro-section .intro_text .buttons a {
+  margin: 5px;
+}
+.log-btn {
+  background-color: #216813;
+  color: #f79f57;
+  padding: 8px 30px 8px 30px;
+}
+.copyright {
+  background-color: #79a96f;
+  margin-top: 250px;
+  padding: 15px;
+}

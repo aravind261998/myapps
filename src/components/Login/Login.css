@@ -1,0 +1,21 @@
+.Login{    
+    margin: 0 auto;
+    margin-top : 70px;
+    max-width: 400px;
+    padding: 50px 50px;
+    /* background: #fff; */
+    /* background-color: rgb(68, 77, 73); */
+}
+.SignUp{    
+    margin: 0 auto;
+    margin-top : 70px;
+    max-width: 400px;
+    padding: 50px 50px;
+    /* background: #fff; */
+    /* background-color: rgb(143, 124, 189);     */
+}
+.row{
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+}
